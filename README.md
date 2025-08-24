@@ -130,6 +130,8 @@ The analysis includes comprehensive visualizations covering:
 - 22.8% of products achieve 4.5+ star ratings
 - Cybersecurity category leads satisfaction (4.28★)
 - Review volume doesn't linearly correlate with rating quality
+  
+<img width="593" height="399" alt="image" src="https://github.com/user-attachments/assets/40785e5f-b255-43e3-bcac-1e8dbfab552b" />
 
 ## Usage Examples
 
