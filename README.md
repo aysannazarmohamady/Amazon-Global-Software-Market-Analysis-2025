@@ -1,6 +1,8 @@
 # Amazon-Global-Software-Market-Analysis-2025
 A comprehensive data science project analyzing Amazon's bestselling software products across 10 global markets to extract business intelligence and market insights.
 
+<img width="794" height="400" alt="image" src="https://github.com/user-attachments/assets/148fd3f3-4002-4d8b-a1f5-0c9c4fdb6373" />
+
 
 ## Project Overview
 
